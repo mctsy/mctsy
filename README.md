@@ -17,7 +17,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)][youtube]
 
-![Discord](https://i.imgur.com/gQHCwFc.png)]
+![Discord](https://i.imgur.com/YqAJMjH.png)]
 
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@1.1.88.33.2)
 
