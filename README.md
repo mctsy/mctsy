@@ -25,6 +25,8 @@
 
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/kajoopa)
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1.1.88.33.2/)
+
 ## Business Inquiries
 [![Business Inquiries](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=1.1.88.33.2@protonmail.com)
 
