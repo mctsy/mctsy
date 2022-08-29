@@ -1,6 +1,6 @@
 # hi
 
-- 🌱 I’m currently learning. My best known language is Python.
+- 🌱 I’m currently learning. My best known language is Python
 - 👯 I’m looking to collaborate with other creators
 - 🤑 Working on a cool horror game with friends (news on that soon)
 
