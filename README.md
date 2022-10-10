@@ -42,7 +42,7 @@
 ### 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- Game released but is being tested everyday just in case. You can play it though! [click me to download](https://pages.github.com/)https://drive.google.com/file/d/1lbFbw8NBluIgdnGrpA3wfip01R6rHTdn/view?usp=sharing
+- Game released but is being tested everyday just in case. You can play it though! [click me to download](https://pages.github.com/)https://drive.google.com/file/d/1lbFbw8NBluIgdnGrpA3wfip01R6rHTdn/view?usp=sharing)
 <!-- BLOG-POST-LIST:END -->
 
 
