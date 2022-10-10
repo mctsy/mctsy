@@ -17,7 +17,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)][youtube]
 
-![Discord](https://i.imgur.com/7dlgzJD.png)
+![Discord](https://i.imgur.com/gjq07Ed.png)
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199124026178/)
 
