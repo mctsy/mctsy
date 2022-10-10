@@ -4,9 +4,10 @@
 - 👯 I’m looking to collaborate with other creators
 - 🤑 Working on a cool horror game with friends (news on that soon)
 
-# Quotes i liked:
+# Quotes i liked because yes:
 - Forget about the past, focus on your present, your future will be safe and secure.
 - Good things take time
+- Don't make promises you can't keep
 - The one you're looking for might already be here.
 - Read between the lines.
 - If you found someone that genuinely cares about you and talks to you, supports your life goals, helps you grow as a person and is by your side every step of the way hold on to them very tight and don't lose them as it's very hard to find them.
