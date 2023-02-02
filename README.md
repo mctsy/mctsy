@@ -4,15 +4,21 @@
 - 👯 I’m looking to collaborate with other creators
 - 💴 Crypto exchanging and trading business since 2021
 
-# Quotes i liked because yes:
+# Good quotes:
 - Forget about the past, focus on your present, your future will be safe and secure.
 - Good things take time
 - Don't make promises you can't keep
 - The one you're looking for might already be here.
 - Read between the lines.
-- If you found someone that genuinely cares about you and talks to you, supports your life goals, helps you grow as a person and is by your side every step of the way hold on to them very tight and don't lose them as it's very hard to find them.
-- Some things break your heart but fix your vision. Don't cry because of a breakup, you might not know it but the future has something much better prepared for you.
-
+- Life is too short to wake up in the morning with regrets. So love the people who treat you right and forget about the ones who don't
+- Silence the angry man with love. Silce the ill-natured man with kindness. Silence the miser with generosity. Silence the liar with truth.
+- Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happniness.
+- Sometimes you must hurt in order to know, fall in order to grow, lose in order to gain, because life's greatest lessons are learnt through pain.
+- Ask yourself if what you are doing today is getting you closer to where you want to be tomorrow.
+- I am too positive to be doubtful, too optimistic to be fearful, and too determined to be defeated.
+- Believe the you deseve all the good and it will find you.
+- Choose your circle carefully. Spend time with people who belong in your future not those who should stay in your past.
+- Switch your metality from "I'm broken and helpless" to "I'm growing and healing" and watch how your life changes, for the better.
 
 ## Connect with me:
 
