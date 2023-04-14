@@ -1,5 +1,5 @@
 # hi
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FnDesigns)](https://github.com/anuraghazra/github-readme-stats)
 - 🌱 I’m currently learning. My best known language is Python
 - 👯 I’m looking to collaborate with other creators
 - 💴 Crypto exchanging and trading business since 2021
