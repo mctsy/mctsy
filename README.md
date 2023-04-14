@@ -1,5 +1,5 @@
-# hi
-[![Stats]([https://github-readme-stats.vercel.app/api?username=FnDesigns)](https://github.com/anuraghazra/github-readme-stats](https://github.com/FnDesigns/terminalstats/blob/master/github_stats.svg))
+# Welcome to my profile!
+[![Stats]([https://github-readme-stats.vercel.app/api?username=FnDesigns)](https://github.com/anuraghazra/github-readme-stats](https://github.com/FnDesigns/terminalstats/blob/master/github_stats.svg](https://raw.githubusercontent.com/FnDesigns/terminalstats/03db44292b53ed2158e070d03c45db94e7532d04/github_stats.svg))
 - 🌱 I’m currently learning. My best known language is Python
 - 👯 I’m looking to collaborate with other creators
 - 💴 Crypto exchanging and trading business since 2021
