@@ -29,7 +29,7 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199124026178/)
 
 ## Business Inquiries
-[![Business Inquiries](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=b.k08@yandex.ru)
+[![Business Inquiries](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=cs@bk08.ru)
 
 ### Languages and Tools:
 
