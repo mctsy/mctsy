@@ -1,5 +1,4 @@
 # Welcome to my profile!
-[![Stats](https://raw.githubusercontent.com/FnDesigns/terminalstats/03db44292b53ed2158e070d03c45db94e7532d04/github_stats.svg)
 - 🌱 I’m currently learning. My best known language is Python
 - 👯 I’m looking to collaborate with other creators
 - 💴 Crypto exchanging and trading business since 2021
