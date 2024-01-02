@@ -2,8 +2,8 @@
 - 🌱 I’m currently learning. My best known language is Python
 - 💴 Crypto exchanging and trading business since 2021
 - ✨ 6 years of experience on website and software creation.
-- 🗺️ Vouches from clients all over the world, on every popular site and app. Dealing with all currencies.
-- 👤 Middleman experience. Over 500+ Deals in crypto and USD
+- 🗺️ Vouches from clients all over the world, on most popular sites and social apps. Dealing with all currencies. Over 500+ Deals in crypto
+- 👤 Middleman experience.
 
 # Good quotes:
 - Forget about the past, focus on your present, your future will be safe and secure.
