@@ -51,7 +51,7 @@
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://discordapp.com/users/922560014470750218/
+[youtube]: https://discordapp.com/users/1096505039293513798/
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://visualstudio.microsoft.com/
