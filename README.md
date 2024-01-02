@@ -1,10 +1,8 @@
 # Welcome to my profile!
 - 🌱 I’m currently learning. My best known language is Python
 - 💴 Crypto exchanging and trading business since 2021
-- ✨ 6 years of experience on website and app creation.
+- ✨ 6 years of experience on website and software creation.
 - 🗺️ Vouches from clients all over the world.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FnDesigns)](https://github.com/anuraghazra/github-readme-stats)
 
 # Good quotes:
 - Forget about the past, focus on your present, your future will be safe and secure.
