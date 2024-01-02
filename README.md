@@ -25,7 +25,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)][youtube]
 
-![Discord](https://i.imgur.com/sr6elZ8.png)
+![Discord](https://i.imgur.com/BgJqDD7.png)
 
 #### Please check my ID before dealing with me: 1096505039293513798
 ##### [About discord username](https://www.google.com/search?q=Microsoft+Certified+Technology+Specialist)
