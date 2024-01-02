@@ -28,7 +28,7 @@
 ![Discord](https://i.imgur.com/sr6elZ8.png)
 
 #### Please check my ID before dealing with me: 1096505039293513798
-[About discord username](https://www.google.com/search?q=Microsoft+Certified+Technology+Specialist)
+##### [About discord username](https://www.google.com/search?q=Microsoft+Certified+Technology+Specialist)
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199124026178/)
 
