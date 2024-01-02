@@ -2,7 +2,8 @@
 - 🌱 I’m currently learning. My best known language is Python
 - 💴 Crypto exchanging and trading business since 2021
 - ✨ 6 years of experience on website and software creation.
-- 🗺️ Vouches from clients all over the world.
+- 🗺️ Vouches from clients all over the world, on every popular site and app. Dealing with all currencies.
+- 👤 Middleman experience. Over 500+ Deals in crypto and USD
 
 # Good quotes:
 - Forget about the past, focus on your present, your future will be safe and secure.
@@ -25,6 +26,8 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)][youtube]
 
 ![Discord](https://i.imgur.com/sr6elZ8.png)
+
+# Please check my ID before dealing with me: 1096505039293513798
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199124026178/)
 
