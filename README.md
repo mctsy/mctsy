@@ -1,3 +1,4 @@
+![image](https://github.com/FnDesigns/FnDesigns/assets/101824510/58432599-7ef4-4564-bf68-e868b7a9d356)
 # Welcome to my profile!
 - 🌱 I’m currently learning. My best known language is Python
 - 💴 Crypto exchanging and trading business since 2021
@@ -26,7 +27,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)][youtube]
 
-![Discord](https://i.imgur.com/kGpAoYQ.png)
+![Discord](https://i.imgur.com/sr6elZ8.png)
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199124026178/)
 
