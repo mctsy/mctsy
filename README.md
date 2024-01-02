@@ -42,16 +42,7 @@
 <br />
 <br />
 
-### 📕 Latest Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Game released but is being tested everyday just in case. You can play it though! [click me to download](https://drive.google.com/file/d/1lbFbw8NBluIgdnGrpA3wfip01R6rHTdn/view?usp=sharing)
-<!-- BLOG-POST-LIST:END -->
-
-
 ---
-
-![alt text](https://raw.githubusercontent.com/shadowforce78/shadowforce78/output/github-contribution-grid-snake.svg?raw=true)
 
 
 [website]: https://codeSTACKr.com
