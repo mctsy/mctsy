@@ -1,4 +1,3 @@
-![image](https://github.com/FnDesigns/FnDesigns/assets/101824510/58432599-7ef4-4564-bf68-e868b7a9d356)
 # Welcome to my profile!
 - 🌱 I’m currently learning. My best known language is Python
 - 💴 Crypto exchanging and trading business since 2021
